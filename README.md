@@ -1,3 +1,3 @@
 # demo
 This is my first GIT Repo.
-Author - Nishu Priya
+Author - Nishu Priya/Ajit Maharwar
